@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="your-profile-image-url.jpg" width="150" height="150">
-</p>
-
 <h1 align="center">Hi, I'm VIVEK PANJWANI 👋</h1>
 
 <p align="center">
