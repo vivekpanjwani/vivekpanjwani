@@ -6,10 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourlinkedin">LinkedIn</a> •
-  <a href="https://twitter.com/yourtwitter">Twitter</a>
+  <a href="https://www.linkedin.com/in/vivek-panjwani-b660a2183"><img src="linkedin-logo.png" alt="LinkedIn" width="20" height="20"></a> •
+  <a href="[https://twitter.com/yourtwitter](https://twitter.com/VIVEKPANJWANI73)"><img src="twitter-logo.png" alt="Twitter" width="20" height="20"></a>
 </p>
-
 ---
 ## 📚 Education
 
