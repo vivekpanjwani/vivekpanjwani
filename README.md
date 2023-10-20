@@ -5,7 +5,7 @@
     Passionate Full Stack Web Developer and Tech Enthusiast
   </p>
 </div>
-
+![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
 ## 🚀 About Me
 
 <p class="text-justify mt-4">
