@@ -29,7 +29,7 @@
   <li class="text-lg">Exploring new technologies and frameworks</li>
   <li class="text-lg">Mastering JavaScript libraries and backend technologies</li>
 </ul>
-
+[![An image of @vivekpanjwani's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vivekpanjwani)](https://holopin.io/@vivekpanjwani)
 ## 📫 Contact Me
 
 <p class="text-justify mt-4">
